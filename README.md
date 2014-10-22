@@ -1,4 +1,6 @@
 outlaw11a.github.io
 ===================
 
-*The content for my personal website at http://alexprice.io/*
+Inspired by the command line used on Linux operating systems. 
+
+*The content for my personal website at https://alexprice.io/*
